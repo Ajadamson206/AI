@@ -2,8 +2,8 @@
 #   Albert Adamson
 #   Problem 4: Number of Islands
 #   
-#   Note: This is the same code found in the screenshot, the only difference is that I added comments
-#
+#   Note: This is the same code found in the screenshot, the only difference is that I added comments + the headers
+#   so it could be ran locally on my machine.
 #
 #   Explanation:
 #   The algorithm for Problem 4 works by looping through the grid until an island ("1") is found. 
